@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+
+.wrapper{
+    margin-top: 100px;
+    width: 600px;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+.orange{
+    height: 150px;
+    width: 600px;
+    background-color: #FF6D27;
+}
+
+.white{
+    height: 150px;
+    width: 600px;
+    text-align: center;
+}
+
+.white img{
+    width: auto;
+    height: 100%;
+}
+
+.green{
+    margin: 0 auto;
+    height: 150px;
+    width: 600px;
+    background-color: #046A38;
+}
+
+.pakistan{
+    position: relative;
+    height: 450px;
+}
+.whitep{
+    height: 450px;
+    width: 100%;
+    position: absolute;
+    background-color: rgb(247, 244, 244);
+}
+
+.greenp{
+    top: 0;
+    right: 0;
+    height: 450px;
+    width: 450px;
+    background-color: #003F15;
+    position: absolute;
+}
+
+.greenp img{
+    top: 30%;
+    right: 25%;
+    height: 50%;
+    position: absolute;
+    transform: translate(-1,-50%);
+}
+
+.greenb{
+    height: 400px;
+    background-color: green;
+    position: relative;
+    display: flex;
+    
+}
+
+.redb{
+    top: 35%;
+    left: 43%;
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+}
+
+.testing{
+    height: 400px;
+    width: 680px !important;
+    background-color: #FFBF24;
+    position: relative;
+}
+
+.slider{
+    top: 5%;
+    left: 4%;
+    width: 160px;
+    height: 360px;
+    position: absolute;
+}
+.lion{
+    top: 5%;
+    left: 30%;
+    background-color: #8D2029;
+    width: 450px;
+    height: 360px;
+    position: absolute;
+}
+.lion img{
+    width: 450px;
+    top: 5%;
+    position: relative;
+}
+.greensl{
+    background-color: #00524D;
+    width: 80px;
+    height: 360px;
+    position: absolute;
+}
+.orngsl{
+    background-color: #EC7500;
+    width: 80px;
+    height: 360px;
+    position: absolute;
+    right: 0;
+}
+
+.chflag{
+    height: 360px;
+    position: relative;
+}
+.upchl{
+    height: 180px;
+}
+.botchl{
+    height: 180px;
+    background-color: #ED1B24;
+}
+.strch{
+    left: 0;
+    width: 180px;
+    height: 180px;
+    background-color: #0065B3;
+    position: absolute;
+    align-content: center;
+}
+.whtchl{
+    right: 0;
+    height: 180px;
+    width: 420px;
+    background-color: #f0f5f1;
+    position: absolute;
+}
+.strch img{
+    width: 105px;
+    height: 100px;
+}
+
+.maldv{
+    position: relative;
+}
+.malred{
+    height: 360px;
+    width: auto;
+    background-color: #ED1B24;
+    position: relative;
+}
+.malgrn{
+    top: 10%;
+    left: 8%;
+    height: 280px;
+    width: 510px;
+    background-color: #00A650;
+    position: absolute;
+}
+.malgrn img{
+    top: 25%;
+    left: 35%;
+    width: 150px;
+    position: absolute;
+}
